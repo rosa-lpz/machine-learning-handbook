@@ -5,6 +5,6 @@ Machine Learning notes and tutorials
 ## Content
 
 ### Supervised Learning
-
+#### Classification
 
 ### Unsupervised Learning
