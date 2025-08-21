@@ -1,4 +1,4 @@
-Sure! **Isolation Forest** is an excellent anomaly detection method that works well with high-dimensional data, such as time series data with multiple variables. It works by isolating observations through random partitioning, and anomalies are those observations that are easier to isolate.
+**Isolation Forest** is an excellent anomaly detection method that works well with high-dimensional data, such as time series data with multiple variables. It works by isolating observations through random partitioning, and anomalies are those observations that are easier to isolate.
 
 Let’s walk through an example where we have a time series with **multiple variables** and use **Isolation Forest** to detect anomalies.
 
