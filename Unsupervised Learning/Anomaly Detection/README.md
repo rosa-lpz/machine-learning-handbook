@@ -28,3 +28,17 @@ If a new instance does not fall within this region, it is an anomaly. There are 
 ## Books
 
 * Géron, A. (2019). *Hands-on machine learning with Scikit-Learn, Keras and TensorFlow: concepts, tools, and techniques to build intelligent systems* (3nd ed.). O’Reilly. URL: https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/
+
+
+
+## Libraries
+
++ Scikit-learn
++ pycaret: https://github.com/pycaret/pycaret
++ pyod: https://github.com/LiDan456/Pyod
+
+
+
+## Articles
+
+* https://medium.com/data-science-collective/a-beginners-guide-to-anomaly-detection-cdebe88fc985
