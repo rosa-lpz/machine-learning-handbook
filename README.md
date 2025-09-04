@@ -1,4 +1,4 @@
-# machine-learning-handbook
+# Machine Learning Handbook
 Machine Learning notes and tutorials
 
 
