@@ -8,6 +8,7 @@ Machine Learning notes and tutorials
 #### Classification
 
 ### Unsupervised Learning
+#### [Anomaly Detection](https://github.com/rosa-lpz/machine-learning-handbook/tree/86ab14e821cd6e104f310d0e1f1d59b3d0488efe/Unsupervised%20Learning/Anomaly%20Detection)
 
 
 
