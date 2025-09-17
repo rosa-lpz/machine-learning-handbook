@@ -116,4 +116,3 @@ print("Anomalies detected at indices:", anomalies.index.tolist())
 
 Isolation Forest is a powerful algorithm for anomaly detection, especially in high-dimensional time series data with multiple variables. It works well with **non-linear patterns** and is flexible enough to handle non-Gaussian distributions, making it suitable for a wide range of real-world applications.
 
-Let me know if you need further customization or additional details!
