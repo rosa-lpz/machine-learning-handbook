@@ -6,8 +6,8 @@ Machine Learning notes and tutorials
 
 ### Supervised Learning
 #### Classification
-#### [Regression](regression/)
-  * [Linear Regression](regression/linear-regression/)
+#### [Regression](02_supervised_learning/regression/)
+  * [Linear Regression](02_supervised_learning/regression/linear-regression/)
 
 ### Unsupervised Learning
 #### [Anomaly Detection](https://github.com/rosa-lpz/machine-learning-handbook/tree/86ab14e821cd6e104f310d0e1f1d59b3d0488efe/Unsupervised%20Learning/Anomaly%20Detection)
