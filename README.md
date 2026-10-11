@@ -28,3 +28,7 @@ And a more engineering-oriented one:
 T and some performance measure P, if its performance on T, as measured by P,
 improves with experience E.
 —Tom Mitchell, 1997
+
+
+# References
+* https://github.com/rosa-lpz/mathematics
